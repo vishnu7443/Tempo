@@ -1,0 +1,6 @@
+{
+  "name": "Tempo Calendar",
+  "description": "Tempo is a premium calendar and smart booking platform. Your time, finally intelligent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
